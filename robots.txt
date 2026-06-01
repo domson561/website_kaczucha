@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kaczucha.pl/sitemap.xml
+Sitemap: https://schowek-wc.pl/sitemap.xml
